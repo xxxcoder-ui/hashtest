@@ -9,7 +9,7 @@
     "hardhat": "^2.8.3"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2",
+    "@openzeppelin/contracts": "^4.7.3",
     "sol-merger": "^3.1.0"
   },
   "scripts": {
